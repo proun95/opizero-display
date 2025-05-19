@@ -1,0 +1,6 @@
+[Unit]
+Description=Display info on the screen
+
+[Service]
+Type=oneshot
+ExecStart=/home/orangepi/opizero-display/update-display-info.sh

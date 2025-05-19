@@ -1,0 +1,11 @@
+[Unit]
+Description=Display info on the screen
+
+[Timer]
+OnBootSec=30sec
+OnUnitActiveSec=15s
+Persistent=true
+Unit=display-info.service
+
+[Install]
+WantedBy=timers.target
