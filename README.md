@@ -1,6 +1,6 @@
 # opizero-display
 
-This repository provides Bash scripts to display system information on an I2C SSD1306 screen for the Orange Pi Zero 2W and other compatible devices.
+This repository provides Bash scripts to display system information on an I2C SSD1306 screen for the Orange Pi Zero 2W and other compatible devices. Used bin (ssd1306_bin) from https://github.com/proun95/ssd1306_linux.
 
 ## Features
 
